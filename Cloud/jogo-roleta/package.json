@@ -1,0 +1,21 @@
+{
+  "name": "jogo-roleta",
+  "version": "1.0.0",
+  "description": "Um jogo de roleta com animações realistas utilizando HTML, CSS e JavaScript.",
+  "main": "src/js/game.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "roleta",
+    "jogo",
+    "javascript",
+    "canvas"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "cep-api",
+  "version": "1.0.0",
+  "description": "API para buscar endereço a partir do CEP utilizando a API Via CEP.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "express": "^4.21.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}

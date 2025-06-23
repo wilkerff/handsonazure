@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #87CEEB; /* Céu azul */
+}
+
+canvas {
+    border: 2px solid #000; /* Borda do canvas */
+    background-color: #fff; /* Fundo do canvas */
+}
+
+h1 {
+    position: absolute;
+    top: 20px;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.score {
+    position: absolute;
+    top: 50px;
+    left: 20px;
+    color: #fff;
+    font-size: 24px;
+    font-family: 'Arial', sans-serif;
+}
